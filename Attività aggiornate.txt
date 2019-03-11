@@ -1,0 +1,40 @@
+Suddivisione degli argomenti
+---------------------
+
+Canino:
+1) Introduzione ai Web Service: servizi e microservizi. [uniformare le conoscenze utilizzando la dispensa introduttiva presente sul registro,  ricerche individuali]
+
+Alex:
+2) Architetture orientata ai servizi (SOA) vs architetture orientata alle risorse (ROA).
+
+Morando:
+3) Obiettivi e peculiarità dei Web-service di tipo RESTful
+
+Forigo:
+4) (Ripasso) Protocolo HTTP: principi fondamentali, formato URI & URL, Metodi HTTP e status codes.
+
+
+5) Operazioni CRUD e mapping dei metodi HTTP (approfondimento PUT vs PATCH). 
+6) Principi RESTFul: Stateless Interactions (Idempotence), Resourse Identification (Resource Naming), Uniform Interface, Self-Descriptive Messages, HATEOAS.
+7) Progettazione di API Rest: motivazioni e scelte progettuali.
+8) Sicurezza nei servizi REST (autenticazione, autorizzazione, sicurezza del canale, integrità dei messaggi, ...) .
+
+Tempi
+----------------------
+4 lezioni di teoria: 11/03; 18/03; 25/03; 01/04
+Verifica scritta individuale: 05/04
+
+Valutazione
+----------------------
+Ogni attività consiste nello studio degli argomenti indicati. Per ogni attività sono previsti 3 stati: ToDo-Doing-Doing. Inizialemente le 8 attività sono tutte nello stato ToDo. Il gruppo decide le modalità per la suddivisione delle attività, per lo studio e l'allineamento di tutti i componenti. Ogni attività che si sta studiando viene posta nello stato "Doing". Tutti i gruppi dovranno completare le 8 attività entro la scandenza e portarle nello stato "done". Le attività nello stato "Done" devono essere validate dal docente che, SOLO in seguito all'allineamento del gruppo sull'attività da validare, dovrà essere chiamato e farà delle domande a uno o più componenti del gruppo scelti casualmente: se la verifica andrà a buon fine l'attività verrà validata e rimarrà nello stato "Done", altrimenti verrà posta nuovamente in "Doing" e il/i componente/i del gruppo interrogati ricevono una penalizzazione che inciderà nella valutazione finale. Per ogni attività non validata al termine del periodo è prevista la penalizzazione dell'intero gruppo. 
+
+Strumenti
+---------------------
+Ogni gruppo organizza la propria SCRUM Board su un foglio elettronico. Il foglio deve essere condiviso con il docente e deve contenere: elenco dei componenti (con l'indicazione dello Scrum master), Scrum Board (3 colonne: ToDo, Doing, Done) con l'indicazione delle attività presenti in Done e validate.
+
+
+Risorse:
+---------------------
+Materiale presente nella cartella condivisa
+https://www.restapitutorial.com/ (+ manuale già presente nella cartella condivisa)
+Materiale disponibile online
